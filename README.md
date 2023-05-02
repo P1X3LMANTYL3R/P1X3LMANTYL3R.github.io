@@ -1,7 +1,7 @@
 # P1X3LMANTYL3R.github.io
 Hi there! ![ezgif com-resize](https://user-images.githubusercontent.com/125163854/224209120-8638c950-07a6-405d-a5a5-7d98e6922999.gif)
 
-- 🔭 I’m currently working putting unblocked fnf mods on my website -- https://sites.google.com/stu.aasd.k12.wi.us/fnf-unblocked
+- 🔭 I’m currently working putting unblocked fnf mods on my website -- <a href="https://sites.google.com/stu.aasd.k12.wi.us/fnf-unblocked">Click here!</a>
 - 🌱 I’m currently learning school stuff idk
 - 👯 I’m looking to collaborate w/ my friends
 - 🤔 I’m looking for help with porting fnf mods to online instead of downloading them
@@ -19,7 +19,7 @@ Hi there! ![ezgif com-resize](https://user-images.githubusercontent.com/12516385
 
 This is stuff i like to listen to--
 
-https://www.youtu.be/Ii3sLA1yKJI
+<a href"https://www.youtu.be/Ii3sLA1yKJI"Youtube</a>
 
 I guess that's it!
 
