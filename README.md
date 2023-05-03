@@ -9,17 +9,16 @@
 - 📫 How to reach me: <a href="mailto:pixelmantylerbackup@outlook.com">right here</a>
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I was with your mom last night
-- 📖 A book I'm Reading: Scott Pilgrim - Issue 2
+- 📖 Favorite book series: Scott Pilgrim
 
 
--👌look at my spotify-- 
-🫥
+-👌look at my spotify--
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oeupvi7fmd79c82o2pjyoe5r6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/oeupvi7fmd79c82o2pjyoe5r6)
 
 This is stuff i like to listen to--
 
-<a href"https://www.youtu.be/Ii3sLA1yKJI"Youtube</a>
+<a href="https://www.youtu.be/Ii3sLA1yKJI">Youtube</a>
 
 I guess that's it!
 
